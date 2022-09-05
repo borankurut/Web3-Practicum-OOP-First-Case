@@ -228,6 +228,7 @@ int main(){
 
     manager.booths.push_back(&b1);
     manager.booths.push_back(&b2);
+    
 
     cout << "Before passing bridge:\n";
 
